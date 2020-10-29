@@ -1,0 +1,6 @@
+F:\School\CP1120 - Fundamentals of Programming I\Quizes\Midterm\TableOfSquares\bin\Debug\TableOfSquares.exe.config
+F:\School\CP1120 - Fundamentals of Programming I\Quizes\Midterm\TableOfSquares\bin\Debug\TableOfSquares.exe
+F:\School\CP1120 - Fundamentals of Programming I\Quizes\Midterm\TableOfSquares\bin\Debug\TableOfSquares.pdb
+F:\School\CP1120 - Fundamentals of Programming I\Quizes\Midterm\TableOfSquares\obj\Debug\TableOfSquares.csprojAssemblyReference.cache
+F:\School\CP1120 - Fundamentals of Programming I\Quizes\Midterm\TableOfSquares\obj\Debug\TableOfSquares.exe
+F:\School\CP1120 - Fundamentals of Programming I\Quizes\Midterm\TableOfSquares\obj\Debug\TableOfSquares.pdb
